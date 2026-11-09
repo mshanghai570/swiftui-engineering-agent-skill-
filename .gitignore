@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Packages and archives
+*.skill
+*.zip
+
+# Build / temp
+.build/
+.swiftpm/
